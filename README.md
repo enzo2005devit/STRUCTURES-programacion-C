@@ -1,1 +1,1 @@
-# STRUSTURES-programacion-C
+# STRUCTURES-programacion-C
